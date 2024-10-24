@@ -247,4 +247,40 @@ img {
     height: 1020px;
     background-color: #2B2A2A;
     border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    font-weight: 400;
+    color: white;
+}
+
+.row2 .vehicle3 {
+    width: 780px;
+    height: 1020px;
+    background-color: #2B2A2A;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    font-weight: 400;
+    color: white;
+}
+
+
+.row2 {
+    width: 1920px;
+    height: 1020px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 127px;
+}
+
+.row2 .vehicle4 {
+    width: 780px;
+    height: 1020px;
+    background-color: #2B2A2A;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    font-weight: 400;
+    color: white;
 }
